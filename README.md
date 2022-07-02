@@ -20,6 +20,9 @@
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/176982768-86ffb675-cc30-4c6c-a3f9-fb7e7da08bc2.png)
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/105374903/176983346-f2d73466-77af-47d8-866a-bcfda361224a.png)
+
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 7
 
