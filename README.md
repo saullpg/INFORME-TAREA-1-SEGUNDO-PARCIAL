@@ -4,17 +4,23 @@
 
 ##### 1.1. OBJETIVO GENERAL
 
-- Reconocer las caracteristicas de un circuito serie y un circuito paralelo.
+- Reconocer las relaciones que hay en un circuito serie y en un circuito paralelo.
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-- Identificar las propiedades de la corriente y el voltaje en un circuito serie.
+- Realizar divisores de voltaje con cargas resistivas.
 
-- Idedntificar las propiedades de la corriente, voltaje y resistencia en un circuito paralelo.
+- Idedntificar el efecto de carga de un voltimetro.
 
-- Emplear las leyes de kirchooff en circuitos serie y paralelo.
+- Analizar el puente de Wheatstone.
 
-- Emplear divisores de corriente y voltaje.
+- Aplicar el teorema de Superposicion.
+
+- Aplicar el teorema de Norton.
+
+- Aplicar el teorema de Thevenin.
+
+- Realizar conversiones delta a Y y Y a delta
 
 #### 2. MARCO TEORICO
 
@@ -156,13 +162,21 @@ de 60oC. La característica de resistencia según la temperatura del termistor s
 
 #### 5. CONCLUSIONES
 
-- Para calcular la resistencia total en paralelo de solamente dos resistencias podemos usar la formula (R1*R2)/(R1+R2).
+- El divisor de voltaje nos permite pasar de un voltaje grande a un voltaje pequeño.
 
-- La  intensidad en un circuito serie es constante y el voltaje es diferente en cada componente.
+- Los voltimetros tienen una resistencia interna de aproximadamente 10M ohm lo cual permite que el valor de voltaje medido sea el mas parecido a la realidad.
 
-- El voltaje en un circuito paralelo es constante y la intensidad es diferente en cada componente.
+- El puente de Wheatstone nos permite identificar cambios relativos en las resistencias.
 
-- La potencia se calcula de la misma manera tanto en un circuito en serie como en un circuito paralelo.
+- Para aplicar el teorema de superposicion en un circuito, este circuito debe tener minimo 2 fuentes ya sea de voltaje o corriente o la combinacion de estas.
+
+- El teorema de Norton nos permite reducir un circuito a una fuente de corriente y una resistencia paralela a la fuente de corriente.
+
+- El teorema de Thevenin al igual que el teorema de Norton nos permite reducir un circuito.
+
+- El teorema de Thevenin reduce un circuito a una fuente de voltaje y una resistencia en seris a la fuente de voltaje.
+
+- Las transformaciones de Delta a Y y de Y a Delta muchas veces nos permiten simplificar un circuito complicado a uno mas facil.
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
