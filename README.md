@@ -150,3 +150,19 @@ de 60oC. La característica de resistencia según la temperatura del termistor s
 ![48b](https://user-images.githubusercontent.com/105374903/176983287-a857fda4-38b2-46c1-9991-0ed81823ecaa.jpg)
 
 
+#### 4. VIDEO
+
+
+
+#### 5. CONCLUSIONES
+
+- Para calcular la resistencia total en paralelo de solamente dos resistencias podemos usar la formula (R1*R2)/(R1+R2).
+
+- La  intensidad en un circuito serie es constante y el voltaje es diferente en cada componente.
+
+- El voltaje en un circuito paralelo es constante y la intensidad es diferente en cada componente.
+
+- La potencia se calcula de la misma manera tanto en un circuito en serie como en un circuito paralelo.
+
+#### 6. BIBLIOGRAFIA
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
